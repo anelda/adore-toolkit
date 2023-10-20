@@ -1,0 +1,25 @@
+# Theme metadata
+name = "Adore"
+
+[light]
+  # Primary
+  primary = "#015f5e"
+  secondary = "#ffc518"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#015f5e"
+  menu_text_active = "#ffc518"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "rgb(255,255,255)"
+  home_section_even = "rgb(222,231,245)"
+
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"

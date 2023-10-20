@@ -2,12 +2,15 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
-hero_media: book.svg
+title: |
+  ADORE.software Toolkit 
+    {style="font-size: 6rem;"}
+hero_media: 
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
+    color: '#015f5e'
+    gradient_start: ''
+    gradient_end: 
     text_color_light: true
 cta:
   url: docs/
@@ -18,14 +21,13 @@ cta_alt:
   url: docs/
   label: View Documentation
 cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
-      Project version will appear here<!-- Automatically filled based on data-repo value -->
-    </span>
+  label: |
+    Author: [Research Software Alliance](https://www.researchsoft.org/) <br>
+    Version: 1.0 <br>
+    September 2023 <br>
 ---
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+<br>
 
-Write something interesting about your project here.
+The ADORE.software Toolkit aims to support implementation of the Amsterdam Declaration on Funding Research Software Sustainability. <br> <br>
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Hugo Documentation Theme</a><script async defer src="https://buttons.github.io/buttons.js"></script>

@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: adore
   theme_night: minimal
   font: minimal
   font_size: L
@@ -18,8 +18,8 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'The ADORE.software Toolkit aims to support implementation of the Amsterdam Declaration on Funding Research Software Sustainability.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Research Software Alliance. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

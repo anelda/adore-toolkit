@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: 2. Research Software Practice
+linktitle: 3. Research Software Practice
 summary: Implementing the three recommendations in the Declaration in research software practice.
-weight: 3
-icon: book-reader
+weight: 4
+icon:
 icon_pack: fas
 
 # Page metadata.
-title: 2. Research Software Practice
+title: 3. Research Software Practice
 date: '2023-09-01T00:00:00Z'
 type: book # Do not modify.
 ---

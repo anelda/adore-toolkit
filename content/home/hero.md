@@ -13,13 +13,13 @@ design:
     gradient_end: 
     text_color_light: true
 cta:
-  url: docs/
-  label: Get Started
+  url: https://adore.software/declaration/
+  label: Read the declaration
   icon_pack: fas
-  icon: download
+  icon: glasses
 cta_alt:
   url: docs/
-  label: View Documentation
+  label: Get started with the toolkit
 cta_note:
   label: |
     Author: [Research Software Alliance](https://www.researchsoft.org/) <br>
@@ -29,5 +29,5 @@ cta_note:
 
 <br>
 
-The ADORE.software Toolkit aims to support implementation of the Amsterdam Declaration on Funding Research Software Sustainability. <br> <br>
+The ADORE.software Toolkit aims to support implementation of the Amsterdam Declaration on Funding Research Software Sustainability (_ADORE.software_). <br> <br>
 

@@ -17,9 +17,3 @@ name = "Adore"
   home_section_even = "rgb(222,231,245)"
 
 
-[dark]
-  # Primary
-  primary = "#bbdefb"
-
-  link = "#bbdefb"
-  link_hover = "#bbdefb"

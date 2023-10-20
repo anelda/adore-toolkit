@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: 1. Definitions
+linktitle: 2. Definitions
 summary: Familiarise yourself with the vocabulary used in this toolkit.
-weight: 1
-icon: book
+weight: 3
+icon:
 icon_pack: fas
 
 # Page metadata.
-title: 1. Definitions
+title: 2. Definitions
 date: '2023-09-01T00:00:00Z'
 type: book # Do not modify.
 ---

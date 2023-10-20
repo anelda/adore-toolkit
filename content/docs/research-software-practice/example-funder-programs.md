@@ -8,7 +8,7 @@ date: '2023-09-01T00:00:00+01:00'
 weight: 2
 ---
 
-- Alfred P. Sloan Foundation C[all for Letters of Inquiry: Institutional Support for Open Source Software in Research](https://sloan.org/programs/digital-technology/ospo-loi). Focuses on Open Source Program Offices (OSPOs).
+- Alfred P. Sloan Foundation [Call for Letters of Inquiry: Institutional Support for Open Source Software in Research](https://sloan.org/programs/digital-technology/ospo-loi). Focuses on Open Source Program Offices (OSPOs).
 - Australian Research Data Commons (ARDC) [Platforms Program](https://ardc.edu.au/program/platforms-program/).
 - Canadian Network for the Advancement of Research, Industry and Education (CANARIE) [Software re-use in research](https://www.canarie.ca/to-spur-software-re-use-in-research-canarie-awards-up-to-3-4m-to-research-teams-to-evolve-their-platforms-for-use-by-other-researchers/). Enables research teams to evolve their platforms for use by other researchers. 
 - Chan Zuckerberg Initiative (CZI) [Essential Open Source Software for Science](https://chanzuckerberg.com/eoss/) (EOSS).
